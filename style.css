@@ -1,0 +1,17 @@
+#zona-fecha{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: 250;
+}
+
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 200px;
+}
+
+img{
+max-height:100px;
+max-width:100px;
+}
